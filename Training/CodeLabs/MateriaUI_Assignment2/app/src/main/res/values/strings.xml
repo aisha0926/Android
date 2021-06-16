@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MateriaUI_Assignment2</string>
+    <string-array name="areaList">
+        <item>+91</item>
+        <item>+93</item>
+        <item>+94</item>
+        <item>+95</item>
+        <item>+96</item>
+        <item>+97</item>
+        <item>+98</item>
+    </string-array>
+</resources>
